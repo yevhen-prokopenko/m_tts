@@ -80,7 +80,7 @@ m_tts/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/jeka-ukraine/m_tts.git
+   git clone https://github.com/yevhen-prokopenko/m_tts.git
    cd m_tts
    ```
 
