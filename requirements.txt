@@ -1,0 +1,15 @@
+torch>=2.0.0
+torchaudio>=2.0.0
+soundfile>=0.12.0
+tqdm>=4.65.0
+omegaconf>=2.3.0
+f5-tts>=1.0.0
+num2words>=0.5.13
+aiogram>=3.0.0
+pypdf>=5.0.0
+python-dotenv>=1.0.0
+aiofiles>=24.0.0
+deep-translator>=1.11.4
+langdetect>=1.0.9
+edge-tts>=7.2.8
+cmudict>=1.0.0
